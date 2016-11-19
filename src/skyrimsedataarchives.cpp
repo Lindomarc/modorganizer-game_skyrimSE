@@ -24,7 +24,8 @@ QStringList SkyrimSEDataArchives::vanillaArchives() const
           , "Skyrim - Interface.bsa"
           , "Skyrim - Animations.bsa"
           , "Skyrim - Shaders.bsa"
-          , "Skyrim - Misc.bsa" };
+          , "Skyrim - Misc.bsa"
+          , "Skyrim - Patch.bsa" };
 }
 
 
